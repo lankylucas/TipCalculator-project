@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipCalculator-counter</string>
+    <string name="enter_the_amount_of_people_splitting_the_tip">Enter the amount of people splitting the tip</string>
+    <string name="enter_the_bill_amount_here">Enter the bill amount here</string>
+    <string name="enter_the_amount_here">Enter the amount here</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="tip_amount">Tip amount</string>
+    <string name="_18">18%</string>
+    <string name="your_tip_total">Your Total Per Person: </string>
+    <string name="total">Total:</string>
+    <string name="final_tip">Tip Amount:</string>
+</resources>
